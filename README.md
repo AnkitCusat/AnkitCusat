@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnkitCusat
+- 👋 Hi, I’m @Ankit kumar
 - 👀 I’m interested in Business analysis tools and skills..
 - 🌱 I’m currently learning .Sql, Python , Tableau , PowerBI..
 - 💞️ I’m looking to collaborate on .Business analysis project..
